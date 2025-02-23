@@ -32,4 +32,5 @@ HTML5 & CSS3: For making the design and structure possible.
 
 
 *Author*
+
 Developed by Haryanth. If you have any questions, feel free to reach out!
