@@ -24,5 +24,12 @@ This project is licensed under the MIT License.
 Swarnagiri and Yadagiri Temples: For being an inspiration for the webpage.
 HTML5 & CSS3: For making the design and structure possible.
 
+*OUTPUT*
+![Image](https://github.com/user-attachments/assets/0d19f2b9-bae6-42ee-b6d1-96e3b23a8b99)
+
+![Image](https://github.com/user-attachments/assets/14469ae8-6f95-48dd-9b23-0df534372727)
+
+
+
 *Author*
 Developed by Haryanth. If you have any questions, feel free to reach out!
